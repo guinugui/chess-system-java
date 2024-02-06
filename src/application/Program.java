@@ -24,7 +24,6 @@ public class Program {
 			System.out.println();
 			System.out.println("Source: ");
 			ChessPosition source = UI.readChessPosition(sc);
-			e
 			System.out.println();
 			System.out.println("Target: ");
 			ChessPosition target = UI.readChessPosition(sc);
